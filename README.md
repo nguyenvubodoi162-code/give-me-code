@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# ❄️ 2025 Winter Development ❄️
-
 <pre>
          *
         / \
@@ -21,13 +19,3 @@
 *(Đây là nơi tôi phát triển)*
 
 </div>
-
-```text
-         .
-        / \
-       /   \
-      /^    \
-     /  ^    \
-    / ^      \
-   /__________\
-      |
