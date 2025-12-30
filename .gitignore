@@ -48,3 +48,6 @@ __pycache__/
 .env
 .venv
 *.egg-info/
+
+.vscode/launch.json
+.vscode/tasks.json
