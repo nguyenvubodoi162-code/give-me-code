@@ -39,9 +39,3 @@ void convert_binary(unsigned int x){
         s1.pop();
     }
 }
-
-
-
-
-
-
